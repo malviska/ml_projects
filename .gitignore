@@ -1,0 +1,10 @@
+*.txt
+*.csv
+*.data
+*.names
+MNIST
+*.ipynb_checkpoints
+*batches*
+*.tar.gz
+*.gz
+*FashionMNIST*
